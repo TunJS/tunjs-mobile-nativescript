@@ -1,0 +1,16 @@
+{
+	"name": "tunjs-mobile-nativescript",
+	"main": "app.js",
+	"version": "1.1.0",
+	"description": "TunJS members and jobs app",
+	"license": "BSD",
+	"keywords": [
+		"telerik",
+		"mobile",
+		"nativescript",
+		"{N}",
+		"tns",
+		"appbuilder",
+		"template"
+	]
+}
