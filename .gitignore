@@ -1,8 +1,5 @@
-node_modules/
-platforms/
-plugins/
-test/temp
-www/
-bower_components
+/node_modules
+/platforms
+/lib
 .tmp
-test/bower_components/
+!/platforms/android/res/values/strings.xml
