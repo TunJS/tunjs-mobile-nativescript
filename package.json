@@ -1,5 +1,9 @@
 {
 	"nativescript": {
-		"id": "tn.js.app"
+		"id": "tn.js.app.nativescript",
+		"tns-android": {
+			"version": "1.1.0"
+		},
+		"node-modules-cache-path": "/home/nader/Workspace/TunJS/apps/tunjs-mobile-nativescript/tmp/funnel-output_path-HV1rtTdW.tmp"
 	}
 }
